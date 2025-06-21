@@ -443,4 +443,18 @@ curl -X POST "http://localhost:8000/api/v1/analytics/data/transform?transformati
 
 This Personal Finance API provides a robust foundation for building intelligent financial management agents on Phronetic AI. The comprehensive set of tools enables agents to handle complex financial workflows while maintaining security and data integrity.
 
-For questions or support, please refer to the main README.md file or create an issue in the repository. 
+For questions or support, please refer to the main README.md file or create an issue in the repository.
+
+Deliverables:
+
+1. Link to your live agent on the Phronetic AI platform:
+   https://meet-agents.rediff.com/x5xwEN9CriV3kdvo/rooms/7mqb-nh87
+
+2. Link to your custom backend service's public endpoint:
+   ✅ https://phronetic-ai-personal-finance-prd.up.railway.app
+
+3. Link to the GitHub repository:
+   ✅ https://github.com/HarshaLokesh/phronetic-ai
+
+4. Evaluation & improvement report:
+   ✅ https://github.com/HarshaLokesh/phronetic-ai/blob/main/EVALUATION_REPORT.md
