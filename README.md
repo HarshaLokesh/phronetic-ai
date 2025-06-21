@@ -302,7 +302,7 @@ docker push your-registry/finance-api
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is Open Source contribution
 
 ## Support
 
